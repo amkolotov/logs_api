@@ -19,15 +19,25 @@
 Документация API по ссылке: https://documenter.getpostman.com/view/12798618/UVeNkhbu
 
 Содержание файла .env:
+
 [settings]
+
 DEBUG=True
+
 SECRET_KEY=''
+
 DB_NAME=''
+
 DB_USER=''
+
 DB_PASSWORD=''
+
 DB_HOST=''
+
 DB_PORT=''
+
 LOG_DIR_PATH = ''
+
 
  
 

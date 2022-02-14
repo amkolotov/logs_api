@@ -12,7 +12,7 @@
 - запустить приложение python manage.py runserver,
 - установить redis и запустить redis-server,
 - запустить celery, командой celery -A config worker,
-- запустить celery beat, командой celery -A config bea
+- запустить celery beat, командой celery -A config beat
 
 Запуск тестов командой python manage.py test --settings=config.test_settings
 
